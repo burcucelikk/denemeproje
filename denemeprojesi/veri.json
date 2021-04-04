@@ -1,0 +1,31 @@
+[  {
+        "price": 0,
+        "name" : "Free",
+        "uinfo":"mo",
+        "button": "Sign up for free",
+        "info": {   "i1":"10 users included",
+                    "i2":"2 GB of storage",
+                    "i3":"Email support",
+                    "i4":"Help center access" } 
+    },
+    {
+        "price": 15,
+        "name" : "Pro",
+        "uinfo":"mo",
+        "button": "Get started",
+        "info": {   "i1":"10 users included",
+                    "i2":"2 GB of storage",
+                    "i3":"Email support",
+                    "i4":"Help center access" }
+    },
+    {
+        "price": 29,
+        "name" : "Free",
+        "uinfo":"mo",
+        "button": "Contact us",
+        "info": {   "i1":"10 users included",
+                    "i2":"2 GB of storage",
+                    "i3":"Email support",
+                    "i4":"Help center access" }
+    }
+] 
